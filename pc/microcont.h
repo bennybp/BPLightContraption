@@ -53,6 +53,7 @@ public:
      *  \param command Array of bytes to send
      *  \param len The length of the command to send
      *  \param expectedreslen The length of the result expected (not including the 3 header bytes)
+     *  \param timeout The amount of time to wait for a response from the microcontroller (in ms)
      *  \throw MCInterfaceException An error occurred during sending
      *         the command or receiving the response
      */

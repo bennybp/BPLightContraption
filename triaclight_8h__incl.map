@@ -1,0 +1,6 @@
+<map id="pc/triaclight.h" name="pc/triaclight.h">
+<area shape="rect" id="node7" href="$microcont_8h.html" title="Class for controlling the microcontroller. " alt="" coords="635,229,725,256"/>
+<area shape="rect" id="node11" href="$microcontexception_8h.html" title="Exception thrown by the MCInterface class. " alt="" coords="908,155,1055,181"/>
+<area shape="rect" id="node14" href="$powerunit__gui_8h.html" title="A class for the GUI controlling of a power unit. " alt="" coords="619,80,732,107"/>
+<area shape="rect" id="node19" href="$powerunit_8h.html" title="A class describing individual, controllable power units. " alt="" coords="443,155,532,181"/>
+</map>

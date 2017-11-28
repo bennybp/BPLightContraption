@@ -1,0 +1,13 @@
+<map id="MCInterfaceException::GetSPErrorText" name="MCInterfaceException::GetSPErrorText">
+<area shape="rect" id="node2" href="$class_p_u_interface_g_u_i.html#a29d254982a178f88c07dfb2fc9d7220a" title="Displays a message box with exception information. " alt="" coords="205,85,411,112"/>
+<area shape="rect" id="node8" href="$class_b_p_light_contraption.html#adbbb5b802004b1444f5fe5cdfad76bae" title="Displays a message box with exception information. " alt="" coords="241,166,375,207"/>
+<area shape="rect" id="node3" href="$class_p_u_interface_g_u_i.html#a92656e6780d1dac81278bc7c0f2905f4" title="Called when an event should turn the power unit on. " alt="" coords="470,5,637,32"/>
+<area shape="rect" id="node5" href="$class_p_u_interface_g_u_i.html#a12c6cdf52ddea427907e312b290ee655" title="Called when an event should turn the power unit on. " alt="" coords="469,56,637,83"/>
+<area shape="rect" id="node6" href="$class_p_u_interface_g_u_i.html#ad8c15e642630424107e5ae64dfb69223" title="Called when the dimmer level slider is changed. " alt="" coords="459,107,647,149"/>
+<area shape="rect" id="node4" href="$class_p_u_interface_g_u_i.html#a5ce5d4cfbb045cea99f69fd63c9865ab" title="Attaches this PUInterfaceGUI object to the interface elements. " alt="" coords="696,56,893,83"/>
+<area shape="rect" id="node7" href="$class_p_u_interface_g_u_i.html#a1e9106670fae1a2d1e2d20e89954d62e" title="Resets the state of the power unit. " alt="" coords="715,115,874,141"/>
+<area shape="rect" id="node9" href="$class_b_p_light_contraption.html#abe7e38ec1823ed5581241cc1598068ef" title="Called when the button to open the port is clicked. " alt="" coords="727,166,862,207"/>
+<area shape="rect" id="node12" href="$class_b_p_light_contraption.html#a168af504f127bd70d0f40a33288aacfb" title="Called when the button to force an update is pressed. " alt="" coords="486,225,621,266"/>
+<area shape="rect" id="node10" href="$class_b_p_light_contraption.html#acd147dc79a9fae2624c663c508d6747c" title="BPLightContraption\l::BPLightContraption" alt="" coords="1126,166,1269,207"/>
+<area shape="rect" id="node11" href="$class_b_p_light_contraption.html#ac0ab43c94759c0f2f99dd8144908c8e3" title="Called when the button to reset the port is clicked. " alt="" coords="942,166,1077,207"/>
+</map>

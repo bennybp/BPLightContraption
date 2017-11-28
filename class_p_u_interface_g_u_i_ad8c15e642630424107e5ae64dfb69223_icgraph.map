@@ -1,0 +1,4 @@
+<map id="PUInterfaceGUI::LevelSliderChange" name="PUInterfaceGUI::LevelSliderChange">
+<area shape="rect" id="node2" href="$class_p_u_interface_g_u_i.html#a5ce5d4cfbb045cea99f69fd63c9865ab" title="Attaches this PUInterfaceGUI object to the interface elements. " alt="" coords="243,5,440,32"/>
+<area shape="rect" id="node3" href="$class_p_u_interface_g_u_i.html#a1e9106670fae1a2d1e2d20e89954d62e" title="Resets the state of the power unit. " alt="" coords="262,56,421,83"/>
+</map>

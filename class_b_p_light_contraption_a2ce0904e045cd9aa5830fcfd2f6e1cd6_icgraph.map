@@ -1,0 +1,7 @@
+<map id="BPLightContraption::Convert16BitValue" name="BPLightContraption::Convert16BitValue">
+<area shape="rect" id="node2" href="$class_b_p_light_contraption.html#a12e488b039e1cc3d7e304115c0a6063b" title="Converts two separate bytes into a 16 bit value and displays it on a QLCDNumber. " alt="" coords="193,5,330,46"/>
+<area shape="rect" id="node3" href="$class_b_p_light_contraption.html#a168af504f127bd70d0f40a33288aacfb" title="Called when the button to force an update is pressed. " alt="" coords="379,34,514,75"/>
+<area shape="rect" id="node4" href="$class_b_p_light_contraption.html#acd147dc79a9fae2624c663c508d6747c" title="BPLightContraption\l::BPLightContraption" alt="" coords="931,55,1074,97"/>
+<area shape="rect" id="node5" href="$class_b_p_light_contraption.html#abe7e38ec1823ed5581241cc1598068ef" title="Called when the button to open the port is clicked. " alt="" coords="563,63,698,105"/>
+<area shape="rect" id="node6" href="$class_b_p_light_contraption.html#ac0ab43c94759c0f2f99dd8144908c8e3" title="Called when the button to reset the port is clicked. " alt="" coords="747,114,882,155"/>
+</map>

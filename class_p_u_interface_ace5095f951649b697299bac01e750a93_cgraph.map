@@ -1,0 +1,4 @@
+<map id="PUInterface::Toggle" name="PUInterface::Toggle">
+<area shape="rect" id="node2" href="$class_p_u_interface.html#a60fda3ce61e77f7ed7422f63a92b0d9d" title="Turns off the power unit. " alt="" coords="192,5,336,32"/>
+<area shape="rect" id="node3" href="$class_p_u_interface.html#a105bade69cbe417da9a431063de99ca2" title="Turns on the power unit. " alt="" coords="193,56,335,83"/>
+</map>

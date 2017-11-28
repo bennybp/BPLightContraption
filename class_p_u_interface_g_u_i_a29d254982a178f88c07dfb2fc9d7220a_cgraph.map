@@ -1,0 +1,10 @@
+<map id="PUInterfaceGUI::ExceptionBox" name="PUInterfaceGUI::ExceptionBox">
+<area shape="rect" id="node2" href="$class_m_c_interface_exception.html#afa8f565b883a0379a60c7b35ddd219ce" title="Returns the current error code. " alt="" coords="259,5,411,46"/>
+<area shape="rect" id="node3" href="$commands-text_8h.html#a1ac1495f5a28d571db76d11e0737218f" title="Returns a description of an error from the microcontroller. " alt="" coords="276,71,393,97"/>
+<area shape="rect" id="node4" href="$class_m_c_interface_exception.html#ad12ee9158b348aae6db8aeb93b71a502" title="Returns the command the microcontroller had a problem with. " alt="" coords="259,122,411,163"/>
+<area shape="rect" id="node5" href="$commands-text_8h.html#a4c6b51142532df7a31f9c65a582c0dba" title="Returns the text of a command given its ID. " alt="" coords="263,188,406,215"/>
+<area shape="rect" id="node6" href="$class_m_c_interface_exception.html#aed41c769d21b88e487b2c98d5cfb13d0" title="Returns the IDd the microcontroller had a problem with. " alt="" coords="259,239,411,281"/>
+<area shape="rect" id="node7" href="$commands-text_8h.html#a37c4bdf45dcfa9ffe96f70ebccb2b86d" title="Returns the name of a PowerUnit given its ID. " alt="" coords="284,305,385,332"/>
+<area shape="rect" id="node8" href="$class_m_c_interface_exception.html#ae10c11ba2be535d61bad56c2e2a654a7" title="Returns the current serial port error. See the QSerialPort documentation. " alt="" coords="259,357,411,398"/>
+<area shape="rect" id="node9" href="$class_m_c_interface_exception.html#a5f294123678c9cc46d4255866508b3d5" title="Returns a string describing the current serial port error. " alt="" coords="259,422,411,463"/>
+</map>

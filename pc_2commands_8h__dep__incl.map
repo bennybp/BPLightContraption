@@ -1,0 +1,8 @@
+<map id="pc/commands.h" name="pc/commands.h">
+<area shape="rect" id="node2" href="$commands-text_8h.html" title="Converts commands, powerunit ids, errors, etc (integers) to text. " alt="" coords="211,80,351,107"/>
+<area shape="rect" id="node6" href="$microcont_8cpp.html" title="Class for controlling the microcontroller. " alt="" coords="376,80,499,107"/>
+<area shape="rect" id="node7" href="$powerunit_8cpp.html" title="A class describing individual, controllable power units. " alt="" coords="523,80,644,107"/>
+<area shape="rect" id="node3" href="$microcontexception_8cpp.html" title="Exception thrown by the MCInterface class. " alt="" coords="5,155,184,181"/>
+<area shape="rect" id="node4" href="$powerunit__gui_8cpp.html" title="A class for the GUI controlling of a power unit. " alt="" coords="209,155,353,181"/>
+<area shape="rect" id="node5" href="$triaclight_8cpp.html" title="Main Qt GUI class. " alt="" coords="379,155,493,181"/>
+</map>

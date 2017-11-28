@@ -1,0 +1,7 @@
+<map id="PUInterfaceGUI::SyncGUI" name="PUInterfaceGUI::SyncGUI">
+<area shape="rect" id="node2" href="$class_p_u_interface.html#a092f8f1a4c94fc6a5628934ba1fd1208" title="Returns the description of the power unit. " alt="" coords="232,5,419,32"/>
+<area shape="rect" id="node3" href="$commands-text_8h.html#a2dd694c7d7bf8fa83f695c4d194b69cb" title="Returns the text of a PowerUnit state. " alt="" coords="266,56,385,83"/>
+<area shape="rect" id="node4" href="$class_p_u_interface.html#a5719abe0038085412480032e606eb73a" title="Returns the state of the power unit (see commands.h) " alt="" coords="249,107,401,133"/>
+<area shape="rect" id="node5" href="$class_p_u_interface.html#ad9b93ea652f1fe7191c10a412e91d20e" title="Returns the current dimmer level. " alt="" coords="249,157,401,184"/>
+<area shape="rect" id="node6" href="$class_p_u_interface.html#a461e399bee7ff58807696b05dfddf3b8" title="Returns true if the microcontroller controlling this power unit is open. " alt="" coords="244,208,407,235"/>
+</map>

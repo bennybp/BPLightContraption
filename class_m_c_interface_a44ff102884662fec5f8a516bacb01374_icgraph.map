@@ -1,0 +1,6 @@
+<map id="MCInterface::ThrowException" name="MCInterface::ThrowException">
+<area shape="rect" id="node2" href="$class_m_c_interface.html#ac20ff72fbd1a4e1f8c3bc3d28c15f76e" title="Opens the specified port. " alt="" coords="499,5,656,32"/>
+<area shape="rect" id="node4" href="$class_m_c_interface.html#ae123245037eb1839b6f040d906e96e36" title="Sends a command to the microcontroller. " alt="" coords="251,56,443,83"/>
+<area shape="rect" id="node3" href="$class_m_c_interface.html#aeb239f96ae43a1658c9035f1dd457cca" title="Resets the port (closes and then reopens the port) " alt="" coords="713,5,874,32"/>
+<area shape="rect" id="node5" href="$class_m_c_interface.html#a5cb42207942aeb9202a406f1d52597db" title="Gets state info from the microcontroller. " alt="" coords="491,56,664,83"/>
+</map>

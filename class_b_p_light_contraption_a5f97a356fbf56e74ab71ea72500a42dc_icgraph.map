@@ -1,0 +1,5 @@
+<map id="BPLightContraption::ClosePort" name="BPLightContraption::ClosePort">
+<area shape="rect" id="node2" href="$class_b_p_light_contraption.html#acd147dc79a9fae2624c663c508d6747c" title="BPLightContraption\l::BPLightContraption" alt="" coords="390,28,533,69"/>
+<area shape="rect" id="node3" href="$class_b_p_light_contraption.html#a115a3ad2cb95f2f4b6762027d908c1d6" title="BPLightContraption\l::~BPLightContraption" alt="" coords="190,24,341,65"/>
+<area shape="rect" id="node4" href="$class_b_p_light_contraption.html#ac0ab43c94759c0f2f99dd8144908c8e3" title="Called when the button to reset the port is clicked. " alt="" coords="198,89,333,131"/>
+</map>

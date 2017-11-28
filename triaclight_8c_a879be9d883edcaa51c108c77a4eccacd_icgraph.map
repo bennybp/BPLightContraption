@@ -1,0 +1,5 @@
+<map id="TurnOff" name="TurnOff">
+<area shape="rect" id="node2" href="$triaclight_8c.html#abea28ac4e8bab9518257bba46d8c1770" title="Change the dimming level of a PowerUnit. " alt="" coords="120,5,173,32"/>
+<area shape="rect" id="node3" href="$triaclight_8c.html#a680acb71dfef135fd56357a99d428573" title="Process a command stored in the buffer. " alt="" coords="221,5,352,32"/>
+<area shape="rect" id="node4" href="$triaclight_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop of the microcontroller. " alt="" coords="400,5,451,32"/>
+</map>

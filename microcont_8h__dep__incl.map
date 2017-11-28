@@ -1,0 +1,10 @@
+<map id="pc/microcont.h" name="pc/microcont.h">
+<area shape="rect" id="node2" href="$triaclight_8h.html" title="Main Qt GUI class. " alt="" coords="46,229,145,256"/>
+<area shape="rect" id="node5" href="$powerunit_8h.html" title="A class describing individual, controllable power units. " alt="" coords="128,80,235,107"/>
+<area shape="rect" id="node7" href="$microcont_8cpp.html" title="Class for controlling the microcontroller. " alt="" coords="340,229,463,256"/>
+<area shape="rect" id="node9" href="$powerunit_8cpp.html" title="A class describing individual, controllable power units. " alt="" coords="242,155,363,181"/>
+<area shape="rect" id="node4" href="$triaclight_8cpp.html" title="Main Qt GUI class. " alt="" coords="283,304,397,331"/>
+<area shape="rect" id="node3" href="$main_8cpp.html" title="Main file for the BPLightContraption project. " alt="" coords="5,304,99,331"/>
+<area shape="rect" id="node6" href="$powerunit__gui_8h.html" title="A class for the GUI controlling of a power unit. " alt="" coords="87,155,216,181"/>
+<area shape="rect" id="node8" href="$powerunit__gui_8cpp.html" title="A class for the GUI controlling of a power unit. " alt="" coords="170,229,315,256"/>
+</map>

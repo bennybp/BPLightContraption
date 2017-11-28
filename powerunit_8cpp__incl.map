@@ -1,0 +1,6 @@
+<map id="pc/powerunit.cpp" name="pc/powerunit.cpp">
+<area shape="rect" id="node11" href="$powerunit_8h.html" title="A class describing individual, controllable power units. " alt="" coords="403,80,492,107"/>
+<area shape="rect" id="node13" href="$microcont_8h.html" title="Class for controlling the microcontroller. " alt="" coords="283,155,373,181"/>
+<area shape="rect" id="node14" href="$microcontexception_8h.html" title="Exception thrown by the MCInterface class. " alt="" coords="641,80,788,107"/>
+<area shape="rect" id="node15" href="$pc_2commands_8h.html" title="Definition of commands, errors, etc, for the microcontroller. " alt="" coords="1186,80,1283,107"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="MCInterface::ResetPort" name="MCInterface::ResetPort">
+<area shape="rect" id="node2" href="$class_m_c_interface.html#adb70e454d82d73c4dbca46e5768f8eec" title="Closes the serial connection with the microcontroller. " alt="" coords="437,5,597,32"/>
+<area shape="rect" id="node3" href="$class_m_c_interface.html#ac20ff72fbd1a4e1f8c3bc3d28c15f76e" title="Opens the specified port. " alt="" coords="216,56,373,83"/>
+<area shape="rect" id="node4" href="$class_m_c_interface.html#a44ff102884662fec5f8a516bacb01374" title="Throws an exception using the current error numbers. " alt="" coords="662,81,858,108"/>
+<area shape="rect" id="node6" href="$class_m_c_interface.html#ae123245037eb1839b6f040d906e96e36" title="Sends a command to the microcontroller. " alt="" coords="421,107,613,133"/>
+<area shape="rect" id="node5" href="$class_m_c_interface.html#a3b60046392e943a092699fcec2a7a5c8" title="Returns the error code from the serial port. " alt="" coords="907,81,1077,108"/>
+</map>

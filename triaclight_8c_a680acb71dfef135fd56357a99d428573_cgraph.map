@@ -1,0 +1,11 @@
+<map id="ProcessCommand" name="ProcessCommand">
+<area shape="rect" id="node2" href="$triaclight_8c.html#a408fb9893e4cbc24c3ff988f654af4f9" title="Read the next entry in the input buffer. " alt="" coords="185,5,290,32"/>
+<area shape="rect" id="node3" href="$triaclight_8c.html#abea28ac4e8bab9518257bba46d8c1770" title="Change the dimming level of a PowerUnit. " alt="" coords="211,56,264,83"/>
+<area shape="rect" id="node8" href="$serial_8c.html#af0d21a9430b3e744d446c0066265c88c" title="Sends 3 bytes through the serial port. " alt="" coords="189,107,286,133"/>
+<area shape="rect" id="node10" href="$serial_8c.html#af67b72828cebaab9e8d8a4425e3041d2" title="Sends an array of bytes through the serial port. " alt="" coords="185,157,290,184"/>
+<area shape="rect" id="node4" href="$triaclight_8c.html#acc899515c7d94f717bfb28e9c069c43b" title="Completely turns on a PowerUnit. " alt="" coords="358,5,423,32"/>
+<area shape="rect" id="node6" href="$triaclight_8c.html#a879be9d883edcaa51c108c77a4eccacd" title="Completely turns off a PowerUnit. " alt="" coords="357,56,424,83"/>
+<area shape="rect" id="node7" href="$triaclight_8c.html#ad26f86d6c81ab3fc722776db0314bc60" title="Start dimming a power unit at the given level. " alt="" coords="339,107,442,133"/>
+<area shape="rect" id="node5" href="$triaclight_8c.html#a0a325f2afc857e382413638e48ecba12" title="Stops dimming on a given PowerUnit. " alt="" coords="491,31,592,57"/>
+<area shape="rect" id="node9" href="$serial_8c.html#a21ab44be88a9755b69be232723f8f7ef" title="Sends a byte through the serial port. " alt="" coords="345,157,436,184"/>
+</map>

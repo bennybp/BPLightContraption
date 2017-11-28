@@ -1,0 +1,11 @@
+<map id="Serial_send" name="Serial_send">
+<area shape="rect" id="node2" href="$serial_8c.html#a86b9c1362483b8f85cb997f967381675" title="Serial_send1" alt="" coords="149,5,246,32"/>
+<area shape="rect" id="node3" href="$serial_8h.html#a641d5e9cd7b0d252d06f7925cd18fdd2" title="Sends 2 bytes through the serial port. " alt="" coords="149,56,246,83"/>
+<area shape="rect" id="node4" href="$serial_8h.html#af0d21a9430b3e744d446c0066265c88c" title="Sends 3 bytes through the serial port. " alt="" coords="149,107,246,133"/>
+<area shape="rect" id="node7" href="$serial_8h.html#a09837ec39e620c00eab5fb4e95743a05" title="Sends 4 bytes through the serial port. " alt="" coords="149,157,246,184"/>
+<area shape="rect" id="node8" href="$serial_8h.html#a10ba96dfc27b68555bb409d07448a9ce" title="Sends 5 bytes through the serial port. " alt="" coords="149,208,246,235"/>
+<area shape="rect" id="node9" href="$serial_8h.html#ac1d50482853cbafc3757c9ed58643f48" title="Sends 6 bytes through the serial port. " alt="" coords="315,259,413,285"/>
+<area shape="rect" id="node10" href="$serial_8h.html#af67b72828cebaab9e8d8a4425e3041d2" title="Sends an array of bytes through the serial port. " alt="" coords="145,259,250,285"/>
+<area shape="rect" id="node5" href="$triaclight_8c.html#a680acb71dfef135fd56357a99d428573" title="Process a command stored in the buffer. " alt="" coords="299,183,429,209"/>
+<area shape="rect" id="node6" href="$triaclight_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="Main loop of the microcontroller. " alt="" coords="477,183,528,209"/>
+</map>

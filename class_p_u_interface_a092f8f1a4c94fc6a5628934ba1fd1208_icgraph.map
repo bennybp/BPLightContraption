@@ -1,0 +1,9 @@
+<map id="PUInterface::GetDescription" name="PUInterface::GetDescription">
+<area shape="rect" id="node2" href="$class_p_u_interface_g_u_i.html#a5ce5d4cfbb045cea99f69fd63c9865ab" title="Attaches this PUInterfaceGUI object to the interface elements. " alt="" coords="704,55,901,82"/>
+<area shape="rect" id="node3" href="$class_p_u_interface_g_u_i.html#ab8afe7782310790843a2da57717d2a0c" title="Synchronizes the GUI elements with the state of the underlying PUInterface object. " alt="" coords="240,106,419,133"/>
+<area shape="rect" id="node4" href="$class_p_u_interface_g_u_i.html#a92656e6780d1dac81278bc7c0f2905f4" title="Called when an event should turn the power unit on. " alt="" coords="478,55,645,82"/>
+<area shape="rect" id="node5" href="$class_p_u_interface_g_u_i.html#a12c6cdf52ddea427907e312b290ee655" title="Called when an event should turn the power unit on. " alt="" coords="477,106,645,133"/>
+<area shape="rect" id="node6" href="$class_p_u_interface_g_u_i.html#ad8c15e642630424107e5ae64dfb69223" title="Called when the dimmer level slider is changed. " alt="" coords="467,157,655,199"/>
+<area shape="rect" id="node7" href="$class_p_u_interface_g_u_i.html#a1e9106670fae1a2d1e2d20e89954d62e" title="Resets the state of the power unit. " alt="" coords="723,194,882,221"/>
+<area shape="rect" id="node8" href="$class_p_u_interface_g_u_i.html#a35dd97768348793c298d7733ff1b3007" title="Changes the state and dimmer level to the passed values. " alt="" coords="469,274,654,301"/>
+</map>

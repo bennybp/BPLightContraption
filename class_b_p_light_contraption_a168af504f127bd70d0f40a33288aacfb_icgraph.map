@@ -1,0 +1,5 @@
+<map id="BPLightContraption::UpdateInfo" name="BPLightContraption::UpdateInfo">
+<area shape="rect" id="node2" href="$class_b_p_light_contraption.html#acd147dc79a9fae2624c663c508d6747c" title="BPLightContraption\l::BPLightContraption" alt="" coords="558,26,701,67"/>
+<area shape="rect" id="node3" href="$class_b_p_light_contraption.html#abe7e38ec1823ed5581241cc1598068ef" title="Called when the button to open the port is clicked. " alt="" coords="190,34,325,75"/>
+<area shape="rect" id="node4" href="$class_b_p_light_contraption.html#ac0ab43c94759c0f2f99dd8144908c8e3" title="Called when the button to reset the port is clicked. " alt="" coords="374,85,509,126"/>
+</map>

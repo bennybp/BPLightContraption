@@ -1,0 +1,6 @@
+<map id="Level" name="Level">
+<area shape="rect" id="node2" href="$triaclight_8c.html#acc899515c7d94f717bfb28e9c069c43b" title="Completely turns on a PowerUnit. " alt="" coords="126,5,191,32"/>
+<area shape="rect" id="node4" href="$triaclight_8c.html#a879be9d883edcaa51c108c77a4eccacd" title="Completely turns off a PowerUnit. " alt="" coords="125,56,192,83"/>
+<area shape="rect" id="node5" href="$triaclight_8c.html#ad26f86d6c81ab3fc722776db0314bc60" title="Start dimming a power unit at the given level. " alt="" coords="107,107,210,133"/>
+<area shape="rect" id="node3" href="$triaclight_8c.html#a0a325f2afc857e382413638e48ecba12" title="Stops dimming on a given PowerUnit. " alt="" coords="259,31,360,57"/>
+</map>

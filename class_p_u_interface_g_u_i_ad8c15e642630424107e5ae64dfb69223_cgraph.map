@@ -1,0 +1,18 @@
+<map id="PUInterfaceGUI::LevelSliderChange" name="PUInterfaceGUI::LevelSliderChange">
+<area shape="rect" id="node2" href="$class_p_u_interface.html#a7763cfa9128f418cd43580af8d4c6ace" title="Dims the powerunit to the given level. " alt="" coords="270,196,421,223"/>
+<area shape="rect" id="node3" href="$class_p_u_interface_g_u_i.html#a29d254982a178f88c07dfb2fc9d7220a" title="Displays a message box with exception information. " alt="" coords="243,247,448,273"/>
+<area shape="rect" id="node12" href="$class_p_u_interface_g_u_i.html#ab8afe7782310790843a2da57717d2a0c" title="Synchronizes the GUI elements with the state of the underlying PUInterface object. " alt="" coords="256,564,435,591"/>
+<area shape="rect" id="node4" href="$class_m_c_interface_exception.html#afa8f565b883a0379a60c7b35ddd219ce" title="Returns the current error code. " alt="" coords="513,5,665,46"/>
+<area shape="rect" id="node5" href="$commands-text_8h.html#a1ac1495f5a28d571db76d11e0737218f" title="Returns a description of an error from the microcontroller. " alt="" coords="531,71,648,97"/>
+<area shape="rect" id="node6" href="$class_m_c_interface_exception.html#ad12ee9158b348aae6db8aeb93b71a502" title="Returns the command the microcontroller had a problem with. " alt="" coords="513,122,665,163"/>
+<area shape="rect" id="node7" href="$commands-text_8h.html#a4c6b51142532df7a31f9c65a582c0dba" title="Returns the text of a command given its ID. " alt="" coords="518,188,661,215"/>
+<area shape="rect" id="node8" href="$class_m_c_interface_exception.html#aed41c769d21b88e487b2c98d5cfb13d0" title="Returns the IDd the microcontroller had a problem with. " alt="" coords="513,239,665,281"/>
+<area shape="rect" id="node9" href="$commands-text_8h.html#a37c4bdf45dcfa9ffe96f70ebccb2b86d" title="Returns the name of a PowerUnit given its ID. " alt="" coords="539,305,640,332"/>
+<area shape="rect" id="node10" href="$class_m_c_interface_exception.html#ae10c11ba2be535d61bad56c2e2a654a7" title="Returns the current serial port error. See the QSerialPort documentation. " alt="" coords="513,357,665,398"/>
+<area shape="rect" id="node11" href="$class_m_c_interface_exception.html#a5f294123678c9cc46d4255866508b3d5" title="Returns a string describing the current serial port error. " alt="" coords="513,422,665,463"/>
+<area shape="rect" id="node13" href="$class_p_u_interface.html#a092f8f1a4c94fc6a5628934ba1fd1208" title="Returns the description of the power unit. " alt="" coords="496,488,683,515"/>
+<area shape="rect" id="node14" href="$commands-text_8h.html#a2dd694c7d7bf8fa83f695c4d194b69cb" title="Returns the text of a PowerUnit state. " alt="" coords="530,539,649,565"/>
+<area shape="rect" id="node15" href="$class_p_u_interface.html#a5719abe0038085412480032e606eb73a" title="Returns the state of the power unit (see commands.h) " alt="" coords="513,589,665,616"/>
+<area shape="rect" id="node16" href="$class_p_u_interface.html#ad9b93ea652f1fe7191c10a412e91d20e" title="Returns the current dimmer level. " alt="" coords="513,640,665,667"/>
+<area shape="rect" id="node17" href="$class_p_u_interface.html#a461e399bee7ff58807696b05dfddf3b8" title="Returns true if the microcontroller controlling this power unit is open. " alt="" coords="508,691,671,717"/>
+</map>

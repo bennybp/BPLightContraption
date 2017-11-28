@@ -1,0 +1,17 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$triaclight_8c.html#a799d8720d2168d0e8aabc69db56bc60e" title="Creates a new PowerUnit object. " alt="" coords="114,5,225,32"/>
+<area shape="rect" id="node3" href="$triaclight_8c.html#a93b6c636a9e482a0b2ae17fb067edd2d" title="Creates a new dimmer clock object. " alt="" coords="105,56,234,83"/>
+<area shape="rect" id="node4" href="$serial_8c.html#af7e37d373165990d03a4b7c53e219721" title="Initializes the serial port. " alt="" coords="130,107,209,133"/>
+<area shape="rect" id="node5" href="$serial_8c.html#ac1d50482853cbafc3757c9ed58643f48" title="Sends 6 bytes through the serial port. " alt="" coords="287,360,385,387"/>
+<area shape="rect" id="node7" href="$triaclight_8c.html#a408fb9893e4cbc24c3ff988f654af4f9" title="Read the next entry in the input buffer. " alt="" coords="283,157,389,184"/>
+<area shape="rect" id="node8" href="$triaclight_8c.html#a680acb71dfef135fd56357a99d428573" title="Process a command stored in the buffer. " alt="" coords="104,208,235,235"/>
+<area shape="rect" id="node16" href="$serial_8c.html#a743f790d2dd9d0517041a594e6b96621" title="Flushes the serial port receive buffer. " alt="" coords="124,309,215,336"/>
+<area shape="rect" id="node14" href="$serial_8c.html#af0d21a9430b3e744d446c0066265c88c" title="Sends 3 bytes through the serial port. " alt="" coords="287,309,385,336"/>
+<area shape="rect" id="node6" href="$serial_8c.html#a21ab44be88a9755b69be232723f8f7ef" title="Sends a byte through the serial port. " alt="" coords="444,309,535,336"/>
+<area shape="rect" id="node9" href="$triaclight_8c.html#abea28ac4e8bab9518257bba46d8c1770" title="Change the dimming level of a PowerUnit. " alt="" coords="309,208,363,235"/>
+<area shape="rect" id="node15" href="$serial_8c.html#af67b72828cebaab9e8d8a4425e3041d2" title="Sends an array of bytes through the serial port. " alt="" coords="283,259,389,285"/>
+<area shape="rect" id="node10" href="$triaclight_8c.html#acc899515c7d94f717bfb28e9c069c43b" title="Completely turns on a PowerUnit. " alt="" coords="457,208,522,235"/>
+<area shape="rect" id="node12" href="$triaclight_8c.html#a879be9d883edcaa51c108c77a4eccacd" title="Completely turns off a PowerUnit. " alt="" coords="456,259,523,285"/>
+<area shape="rect" id="node13" href="$triaclight_8c.html#ad26f86d6c81ab3fc722776db0314bc60" title="Start dimming a power unit at the given level. " alt="" coords="438,157,541,184"/>
+<area shape="rect" id="node11" href="$triaclight_8c.html#a0a325f2afc857e382413638e48ecba12" title="Stops dimming on a given PowerUnit. " alt="" coords="589,233,691,260"/>
+</map>

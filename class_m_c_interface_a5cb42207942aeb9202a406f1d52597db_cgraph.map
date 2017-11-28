@@ -1,0 +1,5 @@
+<map id="MCInterface::RetrieveInfo" name="MCInterface::RetrieveInfo">
+<area shape="rect" id="node2" href="$class_m_c_interface.html#ae123245037eb1839b6f040d906e96e36" title="Sends a command to the microcontroller. " alt="" coords="227,5,419,32"/>
+<area shape="rect" id="node3" href="$class_m_c_interface.html#a44ff102884662fec5f8a516bacb01374" title="Throws an exception using the current error numbers. " alt="" coords="467,5,663,32"/>
+<area shape="rect" id="node4" href="$class_m_c_interface.html#a3b60046392e943a092699fcec2a7a5c8" title="Returns the error code from the serial port. " alt="" coords="713,5,882,32"/>
+</map>

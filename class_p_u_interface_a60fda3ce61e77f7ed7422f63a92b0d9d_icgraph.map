@@ -1,0 +1,5 @@
+<map id="PUInterface::TurnOff" name="PUInterface::TurnOff">
+<area shape="rect" id="node2" href="$class_p_u_interface.html#ace5095f951649b697299bac01e750a93" title="Toggles the power unit between on and off. " alt="" coords="212,5,351,32"/>
+<area shape="rect" id="node3" href="$class_p_u_interface_g_u_i.html#a12c6cdf52ddea427907e312b290ee655" title="Called when an event should turn the power unit on. " alt="" coords="197,56,365,83"/>
+<area shape="rect" id="node4" href="$class_p_u_interface_g_u_i.html#a5ce5d4cfbb045cea99f69fd63c9865ab" title="Attaches this PUInterfaceGUI object to the interface elements. " alt="" coords="413,56,611,83"/>
+</map>

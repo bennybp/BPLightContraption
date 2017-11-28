@@ -1,0 +1,8 @@
+<map id="BPLightContraption::ExceptionBox" name="BPLightContraption::ExceptionBox">
+<area shape="rect" id="node2" href="$class_m_c_interface_exception.html#afa8f565b883a0379a60c7b35ddd219ce" title="Returns the current error code. " alt="" coords="189,5,341,46"/>
+<area shape="rect" id="node3" href="$commands-text_8h.html#a1ac1495f5a28d571db76d11e0737218f" title="Returns a description of an error from the microcontroller. " alt="" coords="207,71,324,97"/>
+<area shape="rect" id="node4" href="$class_m_c_interface_exception.html#ad12ee9158b348aae6db8aeb93b71a502" title="Returns the command the microcontroller had a problem with. " alt="" coords="189,122,341,163"/>
+<area shape="rect" id="node5" href="$class_m_c_interface_exception.html#aed41c769d21b88e487b2c98d5cfb13d0" title="Returns the IDd the microcontroller had a problem with. " alt="" coords="189,187,341,229"/>
+<area shape="rect" id="node6" href="$class_m_c_interface_exception.html#ae10c11ba2be535d61bad56c2e2a654a7" title="Returns the current serial port error. See the QSerialPort documentation. " alt="" coords="189,253,341,294"/>
+<area shape="rect" id="node7" href="$class_m_c_interface_exception.html#a5f294123678c9cc46d4255866508b3d5" title="Returns a string describing the current serial port error. " alt="" coords="189,318,341,359"/>
+</map>

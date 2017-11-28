@@ -1,0 +1,5 @@
+<map id="MCInterface::SendCommand" name="MCInterface::SendCommand">
+<area shape="rect" id="node2" href="$class_m_c_interface.html#ac20ff72fbd1a4e1f8c3bc3d28c15f76e" title="Opens the specified port. " alt="" coords="253,5,411,32"/>
+<area shape="rect" id="node4" href="$class_m_c_interface.html#a5cb42207942aeb9202a406f1d52597db" title="Gets state info from the microcontroller. " alt="" coords="245,56,419,83"/>
+<area shape="rect" id="node3" href="$class_m_c_interface.html#aeb239f96ae43a1658c9035f1dd457cca" title="Resets the port (closes and then reopens the port) " alt="" coords="467,5,629,32"/>
+</map>

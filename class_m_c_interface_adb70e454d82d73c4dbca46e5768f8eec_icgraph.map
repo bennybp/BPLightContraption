@@ -1,0 +1,4 @@
+<map id="MCInterface::ClosePort" name="MCInterface::ClosePort">
+<area shape="rect" id="node2" href="$class_m_c_interface.html#ac20ff72fbd1a4e1f8c3bc3d28c15f76e" title="Opens the specified port. " alt="" coords="213,5,371,32"/>
+<area shape="rect" id="node3" href="$class_m_c_interface.html#aeb239f96ae43a1658c9035f1dd457cca" title="Resets the port (closes and then reopens the port) " alt="" coords="419,31,581,57"/>
+</map>
